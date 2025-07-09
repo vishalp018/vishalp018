@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Vishal+Pal;Full-Stack+Developer+%7C+MERN+Specialist;Competitive+Programmer+%7C+DSA+Enthusiast" alt="Typing SVG" />
 </h1>
 
+<br><br>
+
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding animation" />
 </p>
@@ -10,10 +12,10 @@
 
 ### 🚀 About Me
 
-- 💻 MERN Stack Developer
-- 🧠 Solved **350+** LeetCode Problems
-- 🥇 **Ranked 18** on GeeksforGeeks (Institute Level)
-- 🌱 Currently exploring **Next.js** and **TypeScript**
+- 💻 MERN Stack Developer  
+- 🧠 Solved **350+** LeetCode Problems  
+- 🥇 **Ranked 18** on GeeksforGeeks (Institute Level)  
+- 🌱 Currently exploring **Next.js** and **TypeScript**  
 - ⚔️ Passionate about **Competitive Programming**
 
 ---
