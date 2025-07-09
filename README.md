@@ -1,44 +1,43 @@
-<h1 align="center">Hi 👋, I'm Vishal Pal</h1>
-<h3 align="center">🚀 Competitive Programmer | C++ & DSA Enthusiast | Full-Stack Developer | 250+ LeetCode Problems Solved</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Vishal+Pal;Full-Stack+Developer+%7C+MERN+Specialist;Competitive+Programmer+%7C+DSA+Enthusiast" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding animation" />
 </p>
 
 ---
 
-### 🌱 I’m currently learning
-**React.js**
+### 🚀 About Me
 
-### 💬 Ask me about
-**MERN Stack, Competitive Programming**
-
-### 📫 How to reach me
-**palvishal111@gmail.com**
+- 💻 MERN Stack Developer
+- 🧠 Solved **350+** LeetCode Problems
+- 🥇 **Ranked 18** on GeeksforGeeks (Institute Level)
+- 🌱 Currently exploring **Next.js** and **TypeScript**
+- ⚔️ Passionate about **Competitive Programming**
 
 ---
 
-### 🔗 Connect with me
+### 📫 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/vishalp018" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
-  </a>
-  <a href="https://www.leetcode.com/vishalp018" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/vishal_p0618" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="40"/>
+<p align="center">
+  <a href="https://linkedin.com/in/vishalp018" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://leetcode.com/vishalp018" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="LeetCode" />
+  </a>&nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/vishal_p0618" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="40" alt="GeeksforGeeks" />
   </a>
 </p>
 
-
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Languages & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,nodejs,express,react,mongodb,mysql,git,linux,matlab,pytorch,tensorflow,scikit-learn,seaborn,pandas,postman,photoshop" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,ts,react,nextjs,nodejs,express,tailwind,figma,vscode,mongodb,postgres,mysql,docker,kubernetes,vercel,git" />
 </p>
 
 ---
@@ -46,13 +45,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalp018&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalp018&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalp018&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishalp018&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalp018&" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalp018&theme=tokyonight" alt="GitHub Streak" />
 </p>
