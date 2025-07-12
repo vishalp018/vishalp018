@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Vishal+Pal;Full-Stack+Developer+%7C+Competitive+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Vishal+Pal;Full-Stack+Developer+%7C+Competitive+Programmer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -52,12 +52,4 @@
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.demolab.com/?user=vishalp018&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vishalp018/vishalp018/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
