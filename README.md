@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" />
 </p>
 
 ---
@@ -45,11 +45,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalp018&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vishalp018&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=vishalp018&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=vishalp018&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalp018&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
