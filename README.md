@@ -11,7 +11,7 @@
 ### 🚀 About Me
 
 - 💻 MERN Stack Developer  
-- 🧠 Solved **350+** LeetCode Problems  
+- 🧠 Solved **380+** LeetCode Problems   
 - 🥇 **Ranked 18** on GeeksforGeeks (Institute Level)  
 - 🌱 Currently exploring **Next.js** and **TypeScript**  
 - ⚔️ Passionate about **Competitive Programming**
