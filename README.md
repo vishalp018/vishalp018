@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Vishal+Pal;Full-Stack+Developer+%7C+Competitive+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Vishal+Pal;SDET+%7C+Automation+Engineer;MERN+Stack+Developer+%7C+DSA+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -10,11 +10,14 @@
 
 ### 🚀 About Me
 
-- 💻 MERN Stack Developer  
-- 🧠 Solved **380+** LeetCode Problems   
-- 🥇 **Ranked 18** on GeeksforGeeks (Institute Level)  
-- 🌱 Currently exploring **Next.js** and **TypeScript**  
-- ⚔️ Passionate about **Competitive Programming**
+- 🔍 Currently working as a **QA / SDET Intern** at a cybersecurity company — transitioning from manual testing into **test automation**
+- 💻 **MERN Stack Developer** — building full-stack projects with React, Node.js, Express & MongoDB
+- 🧠 Solved **400+** DSA problems (LeetCode / GfG)
+- 🥇 **Ranked 18** on GeeksforGeeks (Institute Level)
+- 🤖 Learning **Selenium / Playwright** for automation testing, alongside API testing & CI/CD
+- 🌱 Exploring **Next.js** and **TypeScript**
+- ⚔️ Passionate about **Competitive Programming** and building a strong CS fundamentals base
+- 🎯 Aiming to grow into a high-impact **SDET / Full-Stack** role
 
 ---
 
@@ -37,7 +40,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,ts,react,nextjs,nodejs,express,tailwind,figma,vscode,mongodb,postgres,mysql,docker,kubernetes,vercel,git" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,ts,react,nextjs,nodejs,express,tailwind,figma,vscode,mongodb,postgres,mysql,docker,kubernetes,vercel,git,selenium,postman" />
 </p>
 
 ---
@@ -54,4 +57,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalp018&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <i>📌 Currently sharpening DSA + Automation Testing daily — check out my <a href="https://github.com/vishalp018/dsa-daily">dsa-daily</a> repo for consistent practice logs.</i>
 </p>
