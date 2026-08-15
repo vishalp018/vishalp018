@@ -1,12 +1,8 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Vishal+Pal;SDET+%7C+Automation+Engineer;MERN+Stack+Developer+%7C+DSA+Enthusiast" alt="Typing SVG" />
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There!%20I'm%20Vishal%20Pal&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&fontColor=fff&animation=fadeIn" width="100%"/>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" />
-</p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=SDET+%7C+Automation+Engineer;MERN+Stack+Developer;DSA+Enthusiast+%7C+400%2B+Problems+Solved" alt="Typing SVG" />
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vishalp018&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
