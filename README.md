@@ -51,11 +51,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-beryl-tau-70.vercel.app/api?username=vishalp018&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats-beryl-tau-70.vercel.app/api/top-langs/?username=vishalp018&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=vishalp018&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
