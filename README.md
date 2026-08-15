@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There!%20I'm%20Vishal%20Pal&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=110&lines=SDET+%7C+Automation+Engineer;MERN+Stack+Developer;DSA+Enthusiast+%7C+400%2B+Problems+Solved" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=110&lines=SDET+%7C+Automation+Engineer;MERN+Stack+Developer;DSA+Enthusiast+%7C+600+%2B+Problems+Solved" alt="Typing SVG" />
 </h3>
 
 <br/>
@@ -17,7 +17,7 @@
 
 - 🔍 Currently working as a **QA / SDET Intern** at a cybersecurity company — transitioning from manual testing into **test automation**
 - 💻 **MERN Stack Developer** — building full-stack projects with React, Node.js, Express & MongoDB
-- 🧠 Solved **400+** DSA problems (LeetCode / GfG)
+- 🧠 Solved **600++** DSA problems (LeetCode / GfG)
 - 🥇 **Ranked 18** on GeeksforGeeks (Institute Level)
 - 🤖 Learning **Selenium / Playwright** for automation testing, alongside API testing & CI/CD
 - 🌱 Exploring **Next.js** and **TypeScript**
