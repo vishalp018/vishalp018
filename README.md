@@ -1,8 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There!%20I'm%20Vishal%20Pal&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=SDET+%7C+Automation+Engineer;MERN+Stack+Developer;DSA+Enthusiast+%7C+400%2B+Problems+Solved" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=110&lines=SDET+%7C+Automation+Engineer;MERN+Stack+Developer;DSA+Enthusiast+%7C+400%2B+Problems+Solved" alt="Typing SVG" />
 </h3>
+
+<br/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vishalp018&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
