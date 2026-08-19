@@ -3,7 +3,6 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=110&lines=SDET+%7C+Automation+Engineer;MERN+Stack+Developer;DSA+Enthusiast+%7C+400%2B+Problems+Solved" alt="Typing SVG" />
 </h3>
-
 <br/>
 
 <p align="center">
@@ -14,7 +13,6 @@
 ---
 
 ### 🚀 About Me
-
 - 🔍 Currently working as a **QA / SDET Intern** at a cybersecurity company — transitioning from manual testing into **test automation**
 - 💻 **MERN Stack Developer** — building full-stack projects with React, Node.js, Express & MongoDB
 - 🧠 Solved **400+** DSA problems (LeetCode / GfG)
@@ -27,7 +25,6 @@
 ---
 
 ### 📫 Connect With Me
-
 <p align="center">
   <a href="https://linkedin.com/in/vishalp018" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
@@ -43,7 +40,6 @@
 ---
 
 ### 🛠️ Languages & Tools
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,ts,react,nextjs,nodejs,express,tailwind,figma,vscode,mongodb,postgres,mysql,docker,kubernetes,vercel,git,selenium,postman" />
 </p>
@@ -51,9 +47,12 @@
 ---
 
 ### 📊 GitHub Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vishalp018&theme=tokyonight&cache_seconds=0" alt="GitHub Streak" />
+</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vishalp018&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishalp018&show_icons=true&theme=tokyonight&cache_seconds=0" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -63,7 +62,6 @@
 ---
 
 ### 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/vishalp018/vishalp018@output/github-contribution-grid-snake.svg" alt="Snake animation" width="95%"/>
 </p>
