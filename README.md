@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 About Me
-- 🔍 Currently working as a **QA / SDET Intern** at a cybersecurity company — transitioning from manual testing into **test automation**
+- 🔍 Currently working as a **QA Automation / SDET Intern** at a cybersecurity company — transitioning from manual testing into **test automation**
 - 💻 **MERN Stack Developer** — building full-stack projects with React, Node.js, Express & MongoDB
 - 🧠 Solved **400+** DSA problems (LeetCode / GfG)
 - 🥇 **Ranked 18** on GeeksforGeeks (Institute Level)
