@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There!%20I'm%20Vishal%20Pal&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=110&lines=SDET+%7C+Automation+Engineer;MERN+Stack+Developer;DSA+Enthusiast+%7C+400%2B+Problems+Solved" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=110&lines=Associate+Developer+%28QA%29+%7C+Test+Automation;MERN+Stack+Developer;DSA+Enthusiast+%7C+400%2B+Problems+Solved" alt="Typing SVG" />
 </h3>
 <br/>
 
@@ -13,14 +13,24 @@
 ---
 
 ### 🚀 About Me
-- 🔍 Currently working as a **QA Automation / SDET Intern** at a cybersecurity company — transitioning from manual testing into **test automation**
-- 💻 **MERN Stack Developer** — building full-stack projects with React, Node.js, Express & MongoDB
+- 🔍 Working as an **Associate Developer (QA)** at a cybersecurity company, where I started as an intern and was converted to a full-time role
+- 🤖 Building **test automation** with Selenium / Playwright, along with API testing & CI/CD
+- 💻 **MERN Stack Developer**, building full-stack projects with React, Node.js, Express & MongoDB
 - 🧠 Solved **400+** DSA problems (LeetCode / GfG)
 - 🥇 **Ranked 18** on GeeksforGeeks (Institute Level)
-- 🤖 Learning **Selenium / Playwright** for automation testing, alongside API testing & CI/CD
 - 🌱 Exploring **Next.js** and **TypeScript**
 - ⚔️ Passionate about **Competitive Programming** and building a strong CS fundamentals base
-- 🎯 Aiming to grow into a high-impact **SDET / Full-Stack** role
+- 🎯 Focused on writing clean code and building reliable, high-quality software
+
+---
+
+### 💼 Experience
+
+| Role | Company | Duration |
+|------|---------|----------|
+| **Associate Developer (QA)** | Cybersecurity Company | Present |
+| **QA Automation Intern** | Cybersecurity Company | Converted to full-time |
+| **Operations Intern** | Spinworks | Oct 2025 – Dec 2025 |
 
 ---
 
@@ -61,7 +71,7 @@
 ---
 
 <p align="center">
-  <i>📌 Currently sharpening DSA + Automation Testing daily — check out my <a href="https://github.com/vishalp018/dsa-daily">dsa-daily</a> repo for consistent practice logs.</i>
+  <i>📌 Currently sharpening DSA + Automation Testing daily. Check out my <a href="https://github.com/vishalp018/dsa-daily">dsa-daily</a> repo for consistent practice logs.</i>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
