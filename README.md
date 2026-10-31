@@ -56,13 +56,6 @@
 
 ---
 
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalp018&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="95%"/>
-</p>
-
----
-
 ### 🐍 Contribution Snake
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/vishalp018/vishalp018@output/github-contribution-grid-snake.svg" alt="Snake animation" width="95%"/>
